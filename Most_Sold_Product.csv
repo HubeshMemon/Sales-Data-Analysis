@@ -1,0 +1,26 @@
+city,product,quantity,,,Berlin,Lisbon,London,Madrid,Paris
+Berlin,Sides & Other,1202.4,,Sides & Other,1202.4,3006,2805.6,1803.6,1002
+Berlin,Fries,3782.22,,Fries,3782.22,9684.79,9914.02,4928.37,3724.94
+Berlin,Beverages,4067.82,,Beverages,4067.82,11389.84,9762.74,6237.31,3525.43
+Berlin,Burgers,4110.85,,Burgers,4110.85,8375.66,7836.82,5665.88,3033.1
+Berlin,Chicken Sandwiches,1608.06,,Chicken Sandwiches,1608.06,3296.55,3216.16,1809.09,1206.06
+Lisbon,Fries,9684.79,,,,,,,
+Lisbon,Sides & Other,3006,,,,,,,
+Lisbon,Burgers,8375.66,,,,,,,
+Lisbon,Beverages,11389.84,,,,,,,
+Lisbon,Chicken Sandwiches,3296.55,,,,,,,
+London,Burgers,7836.82,,,,,,,
+London,Beverages,9762.74,,,,,,,
+London,Sides & Other,2805.6,,,,,,,
+London,Chicken Sandwiches,3216.16,,,,,,,
+London,Fries,9914.02,,,,,,,
+Madrid,Burgers,5665.88,,,,,,,
+Madrid,Chicken Sandwiches,1809.09,,,,,,,
+Madrid,Fries,4928.37,,,,,,,
+Madrid,Beverages,6237.31,,,,,,,
+Madrid,Sides & Other,1803.6,,,,,,,
+Paris,Burgers,3033.1,,,,,,,
+Paris,Fries,3724.94,,,,,,,
+Paris,Beverages,3525.43,,,,,,,
+Paris,Chicken Sandwiches,1206.06,,,,,,,
+Paris,Sides & Other,1002,,,,,,,

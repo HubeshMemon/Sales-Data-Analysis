@@ -1,0 +1,26 @@
+city,product,total_revenue,,,,Berlin,Lisbon,London,Madrid,Paris
+Berlin,Sides & Other,6000,,,Sides & Other,6000,15000,14000,9000,5000
+Berlin,Fries,13199.94,,,Fries,13199.94,47674.34,34599.9,17199.99,13000.02
+Berlin,Beverages,12000.06,,,Beverages,12000.06,33600,28800.06,18400.05,10400.01
+Berlin,Burgers,53399.94,,,Burgers,53399.94,108799.84,101800.29,73599.8,39399.98
+Berlin,Chicken Sandwiches,16000.19,,,Chicken Sandwiches,16000.19,36639.93,32000.8,18000.45,12000.3
+Lisbon,Fries,47674.34,,,,,,,,
+Lisbon,Sides & Other,15000,,,,,,,,
+Lisbon,Burgers,108799.84,,,,,,,,
+Lisbon,Beverages,33600,,,,,,,,
+Lisbon,Chicken Sandwiches,36639.93,,,,,,,,
+London,Burgers,101800.29,,,,,,,,
+London,Beverages,28800.06,,,,,,,,
+London,Sides & Other,14000,,,,,,,,
+London,Chicken Sandwiches,32000.8,,,,,,,,
+London,Fries,34599.9,,,,,,,,
+Madrid,Burgers,73599.8,,,,,,,,
+Madrid,Chicken Sandwiches,18000.45,,,,,,,,
+Madrid,Fries,17199.99,,,,,,,,
+Madrid,Beverages,18400.05,,,,,,,,
+Madrid,Sides & Other,9000,,,,,,,,
+Paris,Burgers,39399.98,,,,,,,,
+Paris,Fries,13000.02,,,,,,,,
+Paris,Beverages,10400.01,,,,,,,,
+Paris,Chicken Sandwiches,12000.3,,,,,,,,
+Paris,Sides & Other,5000,,,,,,,,
